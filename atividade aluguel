@@ -27,9 +27,6 @@ programa {
     escreva ("\no valor total de kms rodados será de:", kms)
 
     escreva ("\no total a pagar é de: ", total)
-
-    I
-
     }
   }
 }
